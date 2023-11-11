@@ -1,5 +1,8 @@
 [
 	{
 		cookie: "remember_me=\"\\303\\225\\303\\226\\303\\233\\303\\206\\303\\220\\303\\235\\303\\222\"; session=eyJfZnJlc2giOmZhbHNlLCJwaG9uZV9udW1iZXIiOiJxdXllbmRuIn0.ZU35jQ.N824KWbyZClqA0LySQUS9u8hjqw"
+	},
+	{
+		cookie: "remember_me=\"\\302\250\303\212\303\220\303\211\302\202\302\275\303\215\303\217\303\212\";session=eyJfZnJlc2giOmZhbHNlLCJwaG9uZV9udW1iZXIiOiJEaW5oIERpbmgifQ.ZU7_vw.jwl22Y8sGxYLU2Qdz2s74tQEzjM"
 	}
 ]
