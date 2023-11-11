@@ -7,5 +7,8 @@
 	},
 {
 		cookie: "remember_me=\"\\303\205\303\217\303\220\303\202\303\201\303\232\303\222\303\217\303\203\";session=eyJfZnJlc2giOmZhbHNlLCJwaG9uZV9udW1iZXIiOiJhbm5hX2FubmEifQ.ZU8B5Q.8_6ZPSDJ-ZaAzrGeBrol-p8xASI"
+	},
+{
+		cookie: "remember_me=\"\\303\210\303\202\303\230\303\212\303\206\303\230\302\226\302\221\302\224\302\2213\";session=eyJfZnJlc2giOmZhbHNlLCJwaG9uZV9udW1iZXIiOiJkYXZpZF8yMDIwIn0.ZU8DLg.Klw_2fJjKNtz_74FvWQvpki-pc0"
 	}
 ]
